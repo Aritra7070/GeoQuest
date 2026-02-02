@@ -1,0 +1,161 @@
+html,
+body {
+  height: 100vh;
+  width: 100%;
+  font-family: "Arial", sans-serif;
+  color: rgb(255, 255, 255);
+  background-image: url("https://www.ejiltalk.org/wp-content/uploads/2021/03/pexels-photo-110854.jpeg");
+  background-size: cover;
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0;
+}
+
+.logo {
+  padding: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-bottom: 20px;
+}
+
+.logo img {
+  width: 110px;
+  height: 70px;
+}
+
+h1 {
+  color: white;
+  font-family: cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#round {
+  color: white;
+  font-family: "Arial", sans-serif;
+  font-size: 60px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.hidden-link {
+  display: none;
+}
+
+#map,
+#pano {
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#map {
+  width: 40%;
+  height: 40%;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-left-width: 0px;
+  margin-left: 90px;
+  margin-top: 20px; /* Added gap before map */
+}
+
+#info,
+#totaldistance {
+  color: white;
+  font-size: 26px;
+}
+
+#pano {
+  width: 40%;
+  height: 40%;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-left-width: 0px;
+  margin-left: 60px;
+  margin-top: 20px; /* Added gap before panorama */
+}
+
+#result {
+  height: 30%;
+  width: 85%;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+#location,
+#distance,
+#totaldistance {
+  font-size: 26px;
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Poppins', sans-serif; /* Modern, clean font */
+  font-weight: 600; /* Bold for better emphasis */
+  letter-spacing: 1.5px; /* Adds spacing for a refined look */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Subtle shadow for depth */
+
+}
+
+#location,
+#distance {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#check,
+#next {
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#check:hover,
+#next:hover {
+  background-color: #0056b3;
+}
+
+#buttons,
+#info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#next {
+  margin-left: 450px;
+}
+
+#center {
+  text-align: center;
+}
+
+#totaldistance {
+  bottom: 0;
+  width: 100%;
+}
+
+#round {
+  font-family: Chalkduster, fantasy;
+  font-size: 25px;
+}
