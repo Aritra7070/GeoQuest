@@ -46,7 +46,7 @@ var world_city_set = [
   { lat: 29.9792, lon: 31.1342 }, // Great Pyramid of Giza
   { lat: 40.6892, lon: -74.0445 }, // Statue of Liberty
   { lat: 48.8584, lon: 2.2945 }, // Eiffel Tower
-  { lat: -33.8568, lon: 151.2153 }  // Sydney Opera House
+  { lat: -33.8568, lon: 151.2153 }  // Sydney Opera Housess
 ];
 
 var index = -1;

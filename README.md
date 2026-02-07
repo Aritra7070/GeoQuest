@@ -113,7 +113,7 @@ No backend, database, or authentication is required.
 
 ### **2. Guess Placement & Result**
 
-<img src="Assets/game ss1.png" width="700" alt="Guess Result" />
+<img src="Assets/game ss1.png" width="700" alt="Guess Panel" />
 <img src="Assets/game ss2.png" width="700" alt="Guess Result" />
 
 _(Replace screenshot paths with your actual images)_
@@ -124,7 +124,7 @@ _(Replace screenshot paths with your actual images)_
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/geoquest-solo.git
+git clone https://github.com/Aritra7070/GeoQuest.git
 
 # Replace with your Google maps static view API Key
 google cloud--> api & services --> google maps static view--> Get api Key
