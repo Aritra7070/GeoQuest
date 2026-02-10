@@ -25,15 +25,13 @@ Players are dropped into a random real-world location via **Google Street View**
 ## **🔗 Live Demo**
 
 🔗 **GeoQuest (Solo Version)**  
-👉 _Add your deployed link here_  
-Example:  
-`https://geo-quest-beta.vercel.app/`
+👉 `https://geo-quest-beta.vercel.app`
 
 ---
 
 ## **📖 Project Overview**
 
-**GeoQuest (Solo Edition)** is a lightweight, interactive geography game built entirely with **vanilla web technologies**.
+**GeoQuest (Solo Edition)** is a lightweight, interactive geography game built entirely with **simple web technologies language**.
 
 The goal is simple:
 
@@ -61,7 +59,7 @@ This project focuses on **game logic, UI design, and API integration** without r
 The project uses a **pure frontend architecture**, making it easy to deploy and run anywhere.
 
 - **UI Layer:** HTML5 + CSS3 (custom layout & styling)
-- **Game Logic:** Vanilla JavaScript
+- **Game Logic:** JavaScript
 - **Maps & Street View:** Google Maps JavaScript API
 - **Location Data:** OpenWeatherMap API (for place name display)
 
