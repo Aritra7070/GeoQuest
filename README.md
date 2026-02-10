@@ -2,7 +2,7 @@
   <img src="Assets/GeoQuest_Logo-removebg-preview.png" width="150" height="150" alt="GeoQuest Logo" />
 </p>
 
-<h1> 🌍 GeoQuest – Guess the Location (Solo Edition) </h1>
+<h1> 🌍 GeoQuest - Guess the Location (Solo Edition) </h1>
 <h3 align="center">
   Test your geography skills by exploring the world through Street View.
 </h3>
@@ -38,7 +38,7 @@ The goal is simple:
 1. Observe your surroundings using **Street View**
 2. Analyze clues such as language, terrain, architecture, and roads
 3. Place a guess on the map
-4. See how close you were — distance decides your score
+4. See how close you were - distance decides your score
 
 This project focuses on **game logic, UI design, and API integration** without relying on any backend services.
 
@@ -93,7 +93,7 @@ No backend, database, or authentication is required.
 
 ### 🧠 Skill-Based Gameplay
 
-- No hints or assists — observation and reasoning matter
+- No hints or assists - observation and reasoning matter
 - Encourages geographic intuition and deduction
 
 ### 🎨 Clean UI
