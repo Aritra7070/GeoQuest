@@ -7,8 +7,8 @@
   Test your geography skills by exploring the world through Street View.
 </h3>
 
-A browser-based **single-player geolocation game** inspired by GeoGuessr.  
-Players are dropped into a random real-world location via **Google Street View** and must guess the correct place on a world map.
+GeoQuest is a browser-based **single-player geolocation game** inspired by GeoGuessr.  
+Players are dropped into a random real-world location via **Google Street View** and must guess the correct place on a world map. The closer your guess the higher you score
 <br>
 
 <hr/><br>
