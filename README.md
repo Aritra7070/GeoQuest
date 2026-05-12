@@ -114,7 +114,7 @@ No backend, database, or authentication is required.
 <img src="Assets/game ss1.png" width="700" alt="Guess Panel" />
 <img src="Assets/game ss2.png" width="700" alt="Guess Result" />
 
-_(Replace screenshot paths with your actual images)_
+
 
 ---
 
